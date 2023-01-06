@@ -1,0 +1,13 @@
+.body {
+    margin: 5;
+    text-align: center;
+    background: pink;
+    color: #3d3d3d;
+    font-size: 12px;
+    line-height: 1;
+    font-family: 'Open Sans', sans-serif;
+    }  
+.title {
+	color: pink;
+	
+}
