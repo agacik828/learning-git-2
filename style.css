@@ -1,0 +1,29 @@
+
+body {
+    margin: 0;
+    text-align: center;
+    background: #fff;
+    color: #3d3d3d;
+    font-size: 16px;
+    line-height: 1.7;
+    font-family: 'Open Sans', sans-serif;
+    }    
+    
+
+.splash {
+    height: 10vh;
+    background-color: pink;
+    }
+
+
+.title {
+    color: green;
+    font-size: 60px;
+    margin: 48px 0 0 0;
+    font-family: 'Open Sans', sans-serif;
+    }
+	
+.author {
+	color: red;
+	
+}
